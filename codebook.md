@@ -13,9 +13,9 @@
 06. Loads and merges the test component of the final dataset using X_test.txt, y_test.txt, subject_test.txt
 07. Merges the train and test components into a single dataset - *Condition 1 of the Assignment*
 08. Loads activity labels that are set out in the file activity_labels.txt - *Condition 3 of the Assignment*
-09. Uses the activity labels to be used as data labels in the dataset- *Condition 4 of the Assignment*
+09. Uses the activity labels to be used as data labels in the dataset - *Condition 4 of the Assignment*
 10. Calcluates and adds the mean and std values into the final dataset - *Condition 2 of the Assignment*
 11. Creates a file from the dataset, named "largedata.csv" which is saved in the folder "Output Files"
-12. Creates a second, independent tidy dataset with the average of each variable for each activity and each subject - Condition 5
+12. Creates a second, independent tidy dataset with the average of each variable for each activity and each subject - *Condition 5 of the Assignment*
 13. Creates a file from this second dataset, named "tidydata.csv" which is saved in the folder "Output Files"
 
